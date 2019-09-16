@@ -1,1 +1,2 @@
 Master INITIAL
+Contents of commit 2
