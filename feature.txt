@@ -1,0 +1,2 @@
+GUI's scaryLine 1
+Line 2
