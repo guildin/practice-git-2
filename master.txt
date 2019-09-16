@@ -1,3 +1,4 @@
 Master INITIAL
 Contents of commit 2
 Contents of commit 3
+Contents of commit 5
